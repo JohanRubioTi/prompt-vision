@@ -24,5 +24,3 @@ This AI image generator is built using the following technologies:
 - PromptHero Open Journey API
 - Modern pure CSS styling
 
-## Credits
-This project was built by [Johan Rubio] as a learning exercise and exploration of AI-powered image generation using the PromptHero Open Journey API. Thank you to PromptHero for providing such a fantastic resource!
